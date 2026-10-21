@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a-la-sombra-del-calden.vercel.app/sitemap.xml
